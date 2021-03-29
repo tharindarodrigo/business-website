@@ -8,7 +8,7 @@
                         {{-- logo begin --}}
                         <div id="logo">
                             <a href="{!! url('/') !!}">
-                                <img alt="althinect-logo" src="{!! asset('images/althinect-logo.png') !!}" height="70"/>
+                                <img alt="althinect-logo" src="{!! asset('images/althinect-logo.png') !!}" height="50"/>
                             </a>
                         </div>
                         {{-- logo close --}}
@@ -45,11 +45,13 @@
                             </li>
 
                         </ul>
-                    </div>
-{{--                    <div class="align-self-center ml-auto header-col-right">--}}
-{{--                        <a class="btn-custom" href="#"><i class="fa fa-arrow-down"></i> Buy Now</a>--}}
 {{--                        <span id="menu-btn"></span>--}}
-{{--                    </div>--}}
+
+                    </div>
+                    <div class="align-self-end ml-auto header-col-right">
+                        <a class="btn-custom" href="#"><i class="fa fa-arrow-down"></i> Buy Now</a>
+                        <span id="menu-btn"></span>
+                    </div>
                     <div class="clearfix"></div>
                 </div>
             </div>
