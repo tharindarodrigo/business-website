@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-lg-4">
                 <div class="widget">
-                    <a href="{!! url('index') !!}"><img alt="" class="logo" src="{!! asset('images/althinect-logo.png') !!}"></a>
+                    <a href="{!! url('/') !!}"><img alt="" class="logo" src="{!! asset('images/althinect-logo.png') !!}" height="100"></a>
 {{--                    <div class="spacer-20"></div>--}}
 {{--                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem.</p>--}}
                 </div>
@@ -30,11 +30,11 @@
                     <ul>
                         <li><a href="about">About Us</a></li>
 {{--                        <li><a href="our-team.html">Our Team</a></li>--}}
-                        <li><a href="our-history.html">Our History</a></li>
-                        <li><a href="faq.html">FAQs</a></li>
-                        <li><a href="news.html">News</a></li>
-                        <li><a href="gallery.html">Gallery</a></li>
-                        <li><a href="{!! url('contact') !!}">Login</a></li>
+{{--                        <li><a href="our-history.html">Our History</a></li>--}}
+                        <li><a href="#">FAQs</a></li>
+                        <li><a href="{!! url('pos') !!}">POS</a></li>
+                        <li><a href="{!! url('services') !!}">Gallery</a></li>
+                        <li><a href="{!! url('contact') !!}">Contact Us</a></li>
                     </ul>
                 </div>
             </div>

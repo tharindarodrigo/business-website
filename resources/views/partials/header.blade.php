@@ -8,7 +8,7 @@
                         {{-- logo begin --}}
                         <div id="logo">
                             <a href="{!! url('/') !!}">
-                                <img alt="althinect-logo" src="{!! asset('images/althinect-logo.png') !!}" height="50"/>
+                                <img alt="althinect-logo" src="{!! asset('images/althinect-logo.png') !!}" height="70"/>
                             </a>
                         </div>
                         {{-- logo close --}}
