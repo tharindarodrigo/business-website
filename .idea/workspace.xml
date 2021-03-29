@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b41482a-61a4-42c2-84d3-ed9fea7ad90d" name="Default Changelist" comment="" />
+    <list default="true" id="6b41482a-61a4-42c2-84d3-ed9fea7ad90d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/images/althinect-logo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/althinect-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/about-us.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/about-us.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/contact.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/contact.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/erp.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/erp.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/partials/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/footer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/partials/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pos.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/services.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/services.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +26,9 @@
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -122,6 +141,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1qLWx9xAM4397jdtuMWpVoKbAad" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -142,6 +162,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Tharinda Rordigo\laravel\althinect\resources\views" />
+      <recent name="C:\Users\Tharinda Rordigo\laravel\althinect\public\images" />
       <recent name="C:\Users\Tharinda Rordigo\laravel\althinect\public" />
     </key>
   </component>
@@ -159,7 +180,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616859594691</updated>
-      <workItem from="1616859595781" duration="9475000" />
+      <workItem from="1616859595781" duration="17255000" />
     </task>
     <servers />
   </component>
@@ -167,17 +188,25 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1616861691228">
+    <state x="836" y="426" key="Github.ShareDialog" timestamp="1616897073316">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="560" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.479.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1616861691228" />
+    <state x="836" y="426" key="Github.ShareDialog/-1920.479.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1616897073316" />
+    <state x="733" y="147" key="Github.UntrackedFilesDialog" timestamp="1616897083316">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="733" y="147" key="Github.UntrackedFilesDialog/-1920.479.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1616897083316" />
+    <state x="560" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1616976630194">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="560" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.479.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1616976630194" />
     <state x="668" y="242" width="583" height="566" key="find.popup" timestamp="1616890854299">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="668" y="242" width="583" height="566" key="find.popup/-1920.479.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1616890854299" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1616890791911">
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1616976101836">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/-1920.479.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1616890791911" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/-1920.479.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1616976101836" />
   </component>
 </project>

@@ -8,7 +8,7 @@
                         {{-- logo begin --}}
                         <div id="logo">
                             <a href="{!! url('/') !!}">
-                                <img alt="" src="images/logo-1.png" />
+                                <img alt="althinect-logo" src="{!! asset('images/althinect-logo.png') !!}" height="50"/>
                             </a>
                         </div>
                         {{-- logo close --}}
@@ -26,13 +26,14 @@
                             <li>
                                 <a href="#">Products</a>
                                 <ul>
-                                    <li><a href="{!! url('pos') !!}">ERP</a></li>
+                                    <li><a href="{!! url('erp') !!}">ERP</a></li>
                                     <li><a href="{!! url('pos') !!}">POS</a></li>
-                                    <li><a href="{!! url('pos') !!}">Custom Services</a></li>
+                                    <li><a href="{!! url('feedback') !!}">Feedback System </a></li>
+                                    <li><a href="{!! url('custom-services') !!}">Custom Services</a></li>
                                 </ul>
                             </li>
                             <li>
-                                <a href="{!! url('services') !!}">Portfolio</a>
+                                <a href="{!! url('services') !!}">Services</a>
 {{--                                <ul>--}}
 {{--                                    <li><a href="{!! url('pos') !!}">ERP</a></li>--}}
 {{--                                    <li><a href="{!! url('pos') !!}">POS</a></li>--}}
@@ -45,10 +46,10 @@
 
                         </ul>
                     </div>
-                    <div class="align-self-center ml-auto header-col-right">
-                        <a class="btn-custom" href="#"><i class="fa fa-arrow-down"></i> Buy Now</a>
-                        <span id="menu-btn"></span>
-                    </div>
+{{--                    <div class="align-self-center ml-auto header-col-right">--}}
+{{--                        <a class="btn-custom" href="#"><i class="fa fa-arrow-down"></i> Buy Now</a>--}}
+{{--                        <span id="menu-btn"></span>--}}
+{{--                    </div>--}}
                     <div class="clearfix"></div>
                 </div>
             </div>

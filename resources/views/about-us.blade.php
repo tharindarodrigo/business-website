@@ -11,11 +11,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 offset-md-2">
-                        <form action='blank.php' class="row" id='form_subscribe' method="post" name="myForm">
+                        <form class="row" id='form_subscribe' method="post" name="myForm">
                             <div class="col text-center">
                                 <div class="spacer-single"></div>
                                 <h1>About Us</h1>
-                                <p>Awsome Page Teaser Here</p>
+{{--                                <p>Awsome Page Teaser Here</p>--}}
                             </div>
                             <div class="clearfix"></div>
                         </form>
@@ -142,8 +142,8 @@
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <h3>What makes us different?</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</p>
+                    <p>At Althinect we use disruptive technologies to help businesses be more productive, creative and consistent. While some may see technology as a threat</p>
+                    <p>We see possibilities. At Althinect we offer a range of services to help you achieve more by being productive, imaginative and at the same time consistent with growing your business.</p>
                 </div>
 
                 <div class="col-md-5  offset-md-1">
@@ -153,43 +153,43 @@
 
             <div class="spacer-double"></div>
 
-            <div class="padding40 round" data-bgcolor="#f5f5f5">
-                <div class="row align-items-center">
-                    <div class="col-md-2">
-                        <h4 class="no-bottom">Our Clients</h4>
-                    </div>
-                    <div class="col-md-10">
-                        <div id="owl-logo" class="logo-carousel owl-carousel owl-theme">
-                            <img src="images/logo-clients/1.png" class="img-fluid" alt="">
-                            <img src="images/logo-clients/2.png" class="img-fluid" alt="">
-                            <img src="images/logo-clients/3.png" class="img-fluid" alt="">
-                            <img src="images/logo-clients/4.png" class="img-fluid" alt="">
-                            <img src="images/logo-clients/5.png" class="img-fluid" alt="">
-                            <img src="images/logo-clients/6.png" class="img-fluid" alt="">
-                            <img src="images/logo-clients/7.png" class="img-fluid" alt="">
-                            <img src="images/logo-clients/8.png" class="img-fluid" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
+{{--            <div class="padding40 round" data-bgcolor="#f5f5f5">--}}
+{{--                <div class="row align-items-center">--}}
+{{--                    <div class="col-md-2">--}}
+{{--                        <h4 class="no-bottom">Our Clients</h4>--}}
+{{--                    </div>--}}
+{{--                    <div class="col-md-10">--}}
+{{--                        <div id="owl-logo" class="logo-carousel owl-carousel owl-theme">--}}
+{{--                            <img src="images/logo-clients/1.png" class="img-fluid" alt="">--}}
+{{--                            <img src="images/logo-clients/2.png" class="img-fluid" alt="">--}}
+{{--                            <img src="images/logo-clients/3.png" class="img-fluid" alt="">--}}
+{{--                            <img src="images/logo-clients/4.png" class="img-fluid" alt="">--}}
+{{--                            <img src="images/logo-clients/5.png" class="img-fluid" alt="">--}}
+{{--                            <img src="images/logo-clients/6.png" class="img-fluid" alt="">--}}
+{{--                            <img src="images/logo-clients/7.png" class="img-fluid" alt="">--}}
+{{--                            <img src="images/logo-clients/8.png" class="img-fluid" alt="">--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
 
         </div>
 
     </section>
 
-    <section class="pt60 pb60 bg-color-2 text-light">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-md-8 mb-sm-30 text-lg-left text-sm-center">
-                    <h3 class="no-bottom">Awesomeness begin here. Are you ready?</h3>
-                </div>
+{{--    <section class="pt60 pb60 bg-color-2 text-light">--}}
+{{--        <div class="container">--}}
+{{--            <div class="row align-items-center">--}}
+{{--                <div class="col-md-8 mb-sm-30 text-lg-left text-sm-center">--}}
+{{--                    <h3 class="no-bottom">Awesomeness begin here. Are you ready?</h3>--}}
+{{--                </div>--}}
 
-                <div class="col-md-4 text-lg-right text-sm-center">
-                    <a href="#" class="btn-custom capsule med">Let's do it!</a>
-                </div>
-            </div>
-        </div>
-    </section>
+{{--                <div class="col-md-4 text-lg-right text-sm-center">--}}
+{{--                    <a href="#" class="btn-custom capsule med">Let's do it!</a>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </section>--}}
 
 </div>
 @endsection

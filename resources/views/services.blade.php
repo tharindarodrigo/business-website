@@ -43,13 +43,12 @@
 
                     <div class="col-lg-4 col-md-6 mb30">
                         <div class="feature-box f-boxed style-3">
-                            <i class="bg-color i-circle fa fa-paint-brush"></i>
+                            <i class="bg-color i-circle fa fa-mobile"></i>
                             <div class="text">
-                                <h4>UI/UX</h4>
-                                Our UI/UX designers will guarantee seamless experience in the systems we build which
-                                will help your clients stay bound with your business
+                                <h4>Mobile Apps</h4>
+                                Our team of has the expertise to create all kinds of mobile apps from Native to Hybrid on both Android and iOS platforms
                             </div>
-                            <i class="wm fa fa-paint-brush"></i>
+                            <i class="wm fa fa-mobile"></i>
                         </div>
                     </div>
 
@@ -62,6 +61,18 @@
                                 Dynamic web based ERP systems
                             </div>
                             <i class="wm fa fa-laptop"></i>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 mb30">
+                        <div class="feature-box f-boxed style-3">
+                            <i class="bg-color i-circle fa fa-paint-brush"></i>
+                            <div class="text">
+                                <h4>UI/UX</h4>
+                                Our UI/UX designers will guarantee seamless experience in the systems we build which
+                                will help your clients stay bound with your business
+                            </div>
+                            <i class="wm fa fa-paint-brush"></i>
                         </div>
                     </div>
 
@@ -90,7 +101,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 mb30">
+                    <div class="col-lg-4 offset-lg-4 col-md-6 offset-md-3 mb30">
                         <div class="feature-box f-boxed style-3">
                             <i class="bg-color i-circle fa 	fa-comments-o"></i>
                             <div class="text">

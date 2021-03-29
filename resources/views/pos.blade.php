@@ -12,8 +12,8 @@
                         <div class="col-md-8 offset-md-2">
                             <form action='blank.php' class="row" id='form_subscribe' method="post" name="myForm">
                                 <div class="col-md-12 text-center">
-                                    <h1>Email Marketing</h1>
-                                    <p>Great way to reach more customers</p>
+                                    <h1>Enterprise Resource Planning</h1>
+                                    <p>Increase your sales. Get ahead of your competition</p>
                                 </div>
                                 <div class="clearfix"></div>
                             </form>
@@ -29,8 +29,8 @@
                 <div class="row align-items-center">
 
                     <div class="col-md-6">
-                        <h3>What is Email Marketing?</h3>
-                        Email marketing strategies commonly seek to achieve one or more of three primary objectives, to build loyalty, trust, or brand awareness. The term usually refers to sending email messages with the purpose of enhancing a merchant's relationship with current or previous customers, encouraging customer loyalty and repeat business, acquiring new customers or convincing current customers to purchase something immediately, and sharing third-party ads.
+                        <h3>What is an ERP?</h3>
+                        Enterprise resource planning (ERP) is a system of integrated software applications that standardizes, streamlines and integrates business processes across finance, human resources, procurement, distribution, and other departments. Typically, ERP systems operate on an integrated software platform using common data definitions operating on a single database
                     </div>
 
                     <div class="col-md-6">

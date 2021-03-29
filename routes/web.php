@@ -33,8 +33,21 @@ Route::get('/pos', function () {
     return view('pos');
 });
 
+Route::get('/erp', function () {
+    return view('erp');
+});
+
 Route::get('/services', function () {
     return view('services');
 });
+
+Route::get('/portfolio', function () {
+    return view('portfolio');
+});
+
+Route::post('/newsletter-signup', function () {
+    return back();
+});
+
 
 
