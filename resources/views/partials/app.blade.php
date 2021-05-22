@@ -2,9 +2,9 @@
 <html lang="zxx">
 <head>
     <meta charset="utf-8"/>
-    <title>Bluetec Saas Software Startup Website Template</title>
+    <title>Althincet Saas Software Startup</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-    <meta content="Bluetec Saas Software Startup Website Template" name="description"/>
+    <meta content="Althinect Saas Software" name=""/>
     <meta content="" name="keywords"/>
     <meta content="" name="author"/>
 

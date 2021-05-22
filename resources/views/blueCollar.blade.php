@@ -12,8 +12,8 @@
                         <div class="col-md-8 offset-md-2">
                             <form action='blank.php' class="row" id='form_subscribe' method="post" name="myForm">
                                 <div class="col-md-12 text-center">
-                                    <h1>Enterprise Resource Planning</h1>
-                                    <p>Increase your sales. Get ahead of your competition</p>
+                                    <h1>The Blue Collar App</h1>
+                                    <p>Manage your Human Resources smartly</p>
                                 </div>
                                 <div class="clearfix"></div>
                             </form>
@@ -29,15 +29,19 @@
                 <div class="row align-items-center">
 
                     <div class="col-md-6">
-                        <h3>What is an ERP?</h3>
-                        Enterprise resource planning (ERP) is a system of integrated software applications that
-                        standardizes, streamlines and integrates business processes across finance, human resources,
-                        procurement, distribution, and other departments. Typically, ERP systems operate on an
-                        integrated software platform using common data definitions operating on a single database
+                        <h3>What is it?</h3>
+                        BlueCollar is a human resource management system (HRMS) on a very
+                        high level. BlueCollar manages everything from time tracking to business
+                        intelligence. With smart features like True Location and Automatic Forced
+                        Checkout BlueCollar offers a lot of features that can be used to seamlessly
+                        handle your workforce. The BlueCollar application suite comes bundled with
+                        two mobile applications (supervisor and employee) and a back-office web
+                        application that acts as the single point of control.
                         <div class="spacer-30"></div>
 
                         <h3>How does it help you?</h3>
-                        ERP systems improve enterprise efficiency and effectiveness in a number of ways. By integrating financial information in a single system, ERP systems unify an organization’s financial reporting. They also integrate order management, making order taking, manufacturing, inventory, accounting, and distribution a much simpler and less error-prone process. Most ERPs also include customer relationship management (CRM) tools to track customer interactions, thereby providing deeper insights about customer behavior and needs. They can also standardize and automate manufacturing and supporting processes, and unifying procurement across an organization’s disparate business units. An ERP system can also provide a standardized HR platform for time reporting, expense tracking, training, skills matching, and the like, and greatly enhance an organization's ability to file the necessary reporting for government regulations, across finance, HR and the supply chain.
+                        BlueCollar helps you to manage your employees efficiently. From employee tracking to smart
+                        reports based on your employee activities, BlueCollar handles end to end employee management.
 
                     </div>
 

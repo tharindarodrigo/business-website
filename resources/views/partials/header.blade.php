@@ -8,7 +8,7 @@
                         {{-- logo begin --}}
                         <div id="logo">
                             <a href="{!! url('/') !!}">
-                                <img alt="althinect-logo" src="{!! asset('images/althinect-logo.png') !!}" height="50"/>
+                                <img alt="althinect-logo" src="{!! asset('images/logo.png') !!}" height="50"/>
                             </a>
                         </div>
                         {{-- logo close --}}
@@ -28,8 +28,9 @@
                                 <ul>
                                     <li><a href="{!! url('erp') !!}">ERP</a></li>
                                     <li><a href="{!! url('pos') !!}">POS</a></li>
+                                    <li><a href="{!! url('blue-collar') !!}">Blue Collar App</a></li>
                                     <li><a href="{!! url('feedback') !!}">Feedback System </a></li>
-                                    <li><a href="{!! url('custom-services') !!}">Custom Services</a></li>
+{{--                                    <li><a href="{!! url('custom-services') !!}">Custom Services</a></li>--}}
                                 </ul>
                             </li>
                             <li>
@@ -48,10 +49,10 @@
 {{--                        <span id="menu-btn"></span>--}}
 
                     </div>
-                    <div class="align-self-end ml-auto header-col-right">
+                    {{--<div class="align-self-end ml-auto header-col-right">
                         <a class="btn-custom" href="#"><i class="fa fa-arrow-down"></i> Buy Now</a>
                         <span id="menu-btn"></span>
-                    </div>
+                    </div>--}}
                     <div class="clearfix"></div>
                 </div>
             </div>

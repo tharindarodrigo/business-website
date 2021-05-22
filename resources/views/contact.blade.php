@@ -30,12 +30,21 @@
             <div class="container">
                 <div class="row">
 
-                    <div class="col-lg-8 offset-md-2 mb-sm-30">
+                    <div class="col-lg-8 offset-md-2 mb-sm-30 ">
+                        @if(session()->has('alert'))
+                            <div class="alert alert-primary text-center" role="alert">
+                                <h4>Thank you for contacting us. We will get back to you as soon!</h4>
+                            </div>
+                        @endif
                         <h3>Do you have any question?</h3>
 
-                        <form name="contactForm" id="contact_form" class="form-border" method="post" action="{!! url('send-message') !!}}">
+
+                        <form name="contactForm" id="contact_form" class="form-border" method="post"
+                              action="{!! url('send-message') !!}}">
+                            @csrf
                             <div class="field-set">
-                                <input type="text" name="name" id="name" class="form-control" placeholder="Your Name" required/>
+                                <input type="text" name="name" id="name" class="form-control" placeholder="Your Name"
+                                       required/>
                             </div>
 
                             <div class="field-set">
@@ -67,31 +76,31 @@
 
                     <div class="col-lg-8 offset-md-2 mb30">
                         <div class="row">
-{{--                            <div class="col-md-6">--}}
-{{--                                <div class="padding40 bg-color-2 text-light box-rounded">--}}
-{{--                                    <h3>US Office</h3>--}}
-{{--                                    <address class="s1">--}}
-{{--                                        <span><i--}}
-{{--                                                class="fa fa-map-marker fa-lg"></i>08 W 36th St, New York, NY 10001</span>--}}
-{{--                                        <span><i class="fa fa-phone fa-lg"></i>+1 333 9296</span>--}}
-{{--                                        <span><i class="fa fa-envelope-o fa-lg"></i><a--}}
-{{--                                                href="mailto:contact@example.com">contact@example.com</a></span>--}}
-{{--                                        <span><i class="fa fa-file-pdf-o fa-lg"></i><a--}}
-{{--                                                href="#">Download Brochure</a></span>--}}
-{{--                                    </address>--}}
-{{--                                </div>--}}
-{{--                            </div>--}}
+                            {{--                            <div class="col-md-6">--}}
+                            {{--                                <div class="padding40 bg-color-2 text-light box-rounded">--}}
+                            {{--                                    <h3>US Office</h3>--}}
+                            {{--                                    <address class="s1">--}}
+                            {{--                                        <span><i--}}
+                            {{--                                                class="fa fa-map-marker fa-lg"></i>08 W 36th St, New York, NY 10001</span>--}}
+                            {{--                                        <span><i class="fa fa-phone fa-lg"></i>+1 333 9296</span>--}}
+                            {{--                                        <span><i class="fa fa-envelope-o fa-lg"></i><a--}}
+                            {{--                                                href="mailto:contact@example.com">contact@example.com</a></span>--}}
+                            {{--                                        <span><i class="fa fa-file-pdf-o fa-lg"></i><a--}}
+                            {{--                                                href="#">Download Brochure</a></span>--}}
+                            {{--                                    </address>--}}
+                            {{--                                </div>--}}
+                            {{--                            </div>--}}
 
-                            <div class="col-md-6">
+                            <div class="col-md-8">
                                 <div class="padding40 bg-color-3 text-light box-rounded">
                                     <h3>AU Office</h3>
                                     <address class="s1">
-                                        <span><i class="fa fa-map-marker fa-lg"></i>100 Mainstreet Center, Sydney</span>
+                                        <span><i class="fa fa-map-marker fa-lg"></i>52 Amhurst Drive, Narre Warren South, 3805 VIC</span>
                                         <span><i class="fa fa-phone fa-lg"></i>+61 426 901 718</span>
                                         <span><i class="fa fa-envelope-o fa-lg"></i><a
                                                 href="mailto:contact@example.com">hello@althinect.com</a></span>
-                                        <span><i class="fa fa-file-pdf-o fa-lg"></i><a
-                                                href="#">Download Brochure</a></span>
+                                        {{--                                        <span><i class="fa fa-file-pdf-o fa-lg"></i><a--}}
+                                        {{--                                                href="#">Download Brochure</a></span>--}}
                                     </address>
                                 </div>
                             </div>

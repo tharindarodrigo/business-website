@@ -37,6 +37,14 @@ Route::get('/erp', function () {
     return view('erp');
 });
 
+Route::get('/feedback', function () {
+    return view('feedback');
+});
+
+Route::get('/blue-collar', function () {
+    return view('blueCollar');
+});
+
 Route::get('/services', function () {
     return view('services');
 });
