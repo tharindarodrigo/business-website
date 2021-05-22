@@ -11,16 +11,16 @@
 
             <div class="col-lg-2">
                 <div class="widget">
-                    <h5>Demo</h5>
-                    <ul>
-                        <li><a href="index.html">Saas</a></li>
-                        <li><a href="index-startup.html">Startup</a></li>
-                        <li><a href="index-coworking.html">Co-working</a></li>
-                        <li><a href="index-agency.html">Agency</a></li>
-                        <li><a href="index-apps.html">Apps</a></li>
-                        <li><a href="service-single.html">Email Marketing</a></li>
-                        <li><a href="pricing-plans.html">Pricing Plan</a></li>
-                    </ul>
+{{--                    <h5>Demo</h5>--}}
+{{--                    <ul>--}}
+{{--                        <li><a href="index.html">Saas</a></li>--}}
+{{--                        <li><a href="index-startup.html">Startup</a></li>--}}
+{{--                        <li><a href="index-coworking.html">Co-working</a></li>--}}
+{{--                        <li><a href="index-agency.html">Agency</a></li>--}}
+{{--                        <li><a href="index-apps.html">Apps</a></li>--}}
+{{--                        <li><a href="service-single.html">Email Marketing</a></li>--}}
+{{--                        <li><a href="pricing-plans.html">Pricing Plan</a></li>--}}
+{{--                    </ul>--}}
                 </div>
             </div>
 

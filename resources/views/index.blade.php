@@ -10,7 +10,7 @@
                     <div class="col-lg-5 wow fadeInRight" data-wow-delay=".5s">
                         <h4>Whatever business you do</h4>
                         <div class="spacer-10"></div>
-                        <h1>Althinect is what your <span class="id-color">business</span> need</h1>
+                        <h1>Althinect is what your <span class="id-color">business</span> needs</h1>
                         <p class="lead">We help you scale up your business rapidly with innovative solutions from Bootstrapping your company to Automating your business workflow</p>
                         <div class="spacer-20"></div>
                         <a class="btn-custom" href="#">Learn More</a>
