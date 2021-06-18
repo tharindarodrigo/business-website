@@ -64,7 +64,7 @@
                     </div>
 
                     <div class="col-md-6">
-                        <img src="images/misc/2.png" class="img-fluid" alt="">
+                        <img src="images/misc/pos.svg" class="img-fluid" alt="">
                     </div>
 
                 </div>
