@@ -29,7 +29,7 @@
                                     <li><a href="{!! url('erp') !!}">ERP</a></li>
                                     <li><a href="{!! url('pos') !!}">POS</a></li>
                                     <li><a href="{!! url('blue-collar') !!}">Blue Collar App</a></li>
-                                    <li><a href="{!! url('feedback') !!}">Feedback System </a></li>
+                                    <li><a href="{!! url('feedback') !!}">Feedback App </a></li>
 {{--                                    <li><a href="{!! url('custom-services') !!}">Custom Services</a></li>--}}
                                 </ul>
                             </li>
