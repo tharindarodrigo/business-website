@@ -101,7 +101,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 offset-lg-4 col-md-6 offset-md-3 mb30">
+                    {{-- <div class="col-lg-4 offset-lg-4 col-md-6 offset-md-3 mb30">
                         <div class="feature-box f-boxed style-3">
                             <i class="bg-color i-circle fa 	fa-comments-o"></i>
                             <div class="text">
@@ -111,7 +111,7 @@
                             </div>
                             <i class="wm fa fa-comments-o"></i>
                         </div>
-                    </div>
+                    </div> --}}
                 </div>
             </div>
         </section>

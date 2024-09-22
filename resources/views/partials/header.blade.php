@@ -8,7 +8,7 @@
                         {{-- logo begin --}}
                         <div id="logo">
                             <a href="{!! url('/') !!}">
-                                <img alt="althinect-logo" src="{!! asset('images/logo.png') !!}" height="50"/>
+                                <img alt="logo" src="{!! asset('images/logo.png') !!}" height="50"/>
                             </a>
                         </div>
                         {{-- logo close --}}
@@ -28,8 +28,10 @@
                                 <ul>
                                     <li><a href="{!! url('erp') !!}">ERP</a></li>
                                     <li><a href="{!! url('pos') !!}">POS</a></li>
-                                    <li><a href="{!! url('blue-collar') !!}">Blue Collar App</a></li>
-                                    <li><a href="{!! url('feedback') !!}">Feedback App </a></li>
+                                    {{-- <li><a href="{!! url('pos') !!}">IoT</a></li> --}}
+                                    <li><a href="{!! url('avsquad') !!}">AVSQUAD</a></li>
+                                    {{-- <li><a href="{!! url('blue-collar') !!}">Blue Collar App</a></li>
+                                    <li><a href="{!! url('feedback') !!}">Feedback App </a></li> --}}
 {{--                                    <li><a href="{!! url('custom-services') !!}">Custom Services</a></li>--}}
                                 </ul>
                             </li>

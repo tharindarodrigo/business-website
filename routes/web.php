@@ -49,6 +49,10 @@ Route::get('/services', function () {
     return view('services');
 });
 
+Route::get('/avsquad', function () {
+    return view('avsquad');
+});
+
 Route::get('/portfolio', function () {
     return view('portfolio');
 });

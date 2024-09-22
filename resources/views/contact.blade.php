@@ -90,17 +90,14 @@
                             {{--                                    </address>--}}
                             {{--                                </div>--}}
                             {{--                            </div>--}}
-
                             <div class="col-md-8">
                                 <div class="padding40 bg-color-3 text-light box-rounded">
                                     <h3>AU Office</h3>
                                     <address class="s1">
-                                        <span><i class="fa fa-map-marker fa-lg"></i>52 Amhurst Drive, Narre Warren South, 3805 VIC</span>
-                                        <span><i class="fa fa-phone fa-lg"></i>+61 426 901 718</span>
+                                        <span><i class="fa fa-phone fa-lg"></i>+94 77 333 0888</span>
+                                        <span><i class="fa fa-phone fa-lg"></i>29/17, Gunasekara Gardens, Nawala, Colombo</span>
                                         <span><i class="fa fa-envelope-o fa-lg"></i><a
-                                                href="mailto:contact@example.com">hello@althinect.com</a></span>
-                                        {{--                                        <span><i class="fa fa-file-pdf-o fa-lg"></i><a--}}
-                                        {{--                                                href="#">Download Brochure</a></span>--}}
+                                                href="mailto:hello@althinect.com">hello@althinect.com</a></span>
                                     </address>
                                 </div>
                             </div>
